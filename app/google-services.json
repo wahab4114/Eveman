@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "131736627132",
+    "firebase_url": "https://eveman-678d0.firebaseio.com",
+    "project_id": "eveman-678d0",
+    "storage_bucket": "eveman-678d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131736627132:android:c05f34e3b279ae1bf8edb9",
+        "android_client_info": {
+          "package_name": "com.smd.eveman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131736627132-0sqel0jumtkqck848ulhnv1n1eb786f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smd.eveman",
+            "certificate_hash": "993993d5c41a0d65d467727682fd9ed657c7783e"
+          }
+        },
+        {
+          "client_id": "131736627132-bkpm7m1o0m5n1bgg0fpa5v3k4cdg3l57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACJdLaVaAwzcAcdVbnrKNIP_71YnKDiUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131736627132-bkpm7m1o0m5n1bgg0fpa5v3k4cdg3l57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
